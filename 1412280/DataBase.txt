@@ -1,0 +1,9 @@
+﻿1	Viet Nam	China	United States	Uruguay	A
+2	Thailand	UnitedStates	Philippines	Mexico	B
+3	Iran	Italy	Japan	Indonesia	C
+4	Korea	Paraguay	Argentina	Russia	D
+5	Canada	Brazil	Australia	Chile	A
+6	Syria	Singapore	United Kingdom	Vatican	B
+7	Mexico	Nepal	Malaysia	Turkey	C
+8	Laos	Israel	Iraq	Norway	D
+9	Philippines	Qatar	Hungary	Germany	A
